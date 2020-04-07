@@ -1,1 +1,1 @@
-# tim-pierret-campus-dev-exercise
+This is my Campus, Inc. Development Challenge
